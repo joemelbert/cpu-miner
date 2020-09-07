@@ -1,0 +1,2 @@
+# cpu-miner
+resistense
